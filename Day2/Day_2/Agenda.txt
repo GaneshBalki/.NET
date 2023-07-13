@@ -1,0 +1,26 @@
+C#= Java+ (CPP) + (C) + (VB) + (JS) +(Py)
+
+.NET = CLR + CTS +CLI
+
+CLR:Common Language Runtime(Execution Eng)
+CLR=assembly loader +code verifier+ JITcompiler +GC
+         converting IL code into native code
+
+CTS:
+	Common Type System
+	
+CTS= FCL + CLS
+         (Framework class libraries)-----dll's
+         (Common Langauge Specification)
+        Value Types
+	primitive types
+	 	int ,float, char, double, long, 
+                 		bool, enum
+		struct
+
+	Refernce Types
+		class
+		interface
+		delegate
+		event
+	

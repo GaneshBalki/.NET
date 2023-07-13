@@ -1,0 +1,15 @@
+C:\CDAC\DotNet\Day2\Shape\bin\Debug\net7.0\Shape.exe
+C:\CDAC\DotNet\Day2\Shape\bin\Debug\net7.0\Shape.deps.json
+C:\CDAC\DotNet\Day2\Shape\bin\Debug\net7.0\Shape.runtimeconfig.json
+C:\CDAC\DotNet\Day2\Shape\bin\Debug\net7.0\Shape.dll
+C:\CDAC\DotNet\Day2\Shape\bin\Debug\net7.0\Shape.pdb
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\Shape.csproj.AssemblyReference.cache
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\Shape.AssemblyInfoInputs.cache
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\Shape.AssemblyInfo.cs
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\Shape.csproj.CoreCompileInputs.cache
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\Shape.dll
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\refint\Shape.dll
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\Shape.pdb
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\Shape.genruntimeconfig.cache
+C:\CDAC\DotNet\Day2\Shape\obj\Debug\net7.0\ref\Shape.dll
