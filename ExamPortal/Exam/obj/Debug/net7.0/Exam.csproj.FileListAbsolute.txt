@@ -1,0 +1,15 @@
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\Exam.csproj.AssemblyReference.cache
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\Exam.AssemblyInfoInputs.cache
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\Exam.AssemblyInfo.cs
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\Exam.csproj.CoreCompileInputs.cache
+C:\CDAC\DotNet\ExamPortal\Exam\bin\Debug\net7.0\Exam.deps.json
+C:\CDAC\DotNet\ExamPortal\Exam\bin\Debug\net7.0\Exam.dll
+C:\CDAC\DotNet\ExamPortal\Exam\bin\Debug\net7.0\Exam.pdb
+C:\CDAC\DotNet\ExamPortal\Exam\bin\Debug\net7.0\Question.dll
+C:\CDAC\DotNet\ExamPortal\Exam\bin\Debug\net7.0\Question.pdb
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\Exam.csproj.CopyComplete
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\Exam.dll
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\refint\Exam.dll
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\Exam.pdb
+C:\CDAC\DotNet\ExamPortal\Exam\obj\Debug\net7.0\ref\Exam.dll

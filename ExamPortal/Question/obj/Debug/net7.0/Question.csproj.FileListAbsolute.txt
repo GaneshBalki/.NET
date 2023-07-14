@@ -1,0 +1,12 @@
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\Question.csproj.AssemblyReference.cache
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\Question.AssemblyInfoInputs.cache
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\Question.AssemblyInfo.cs
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\Question.csproj.CoreCompileInputs.cache
+C:\CDAC\DotNet\ExamPortal\Question\bin\Debug\net7.0\Question.deps.json
+C:\CDAC\DotNet\ExamPortal\Question\bin\Debug\net7.0\Question.dll
+C:\CDAC\DotNet\ExamPortal\Question\bin\Debug\net7.0\Question.pdb
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\Question.dll
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\refint\Question.dll
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\Question.pdb
+C:\CDAC\DotNet\ExamPortal\Question\obj\Debug\net7.0\ref\Question.dll

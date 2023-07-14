@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Exam/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Question": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Exam.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exam.dll": {}
+        }
+      },
+      "ExamService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Exam": "1.0.0",
+          "Question": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExamService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExamService.dll": {}
+        }
+      },
+      "Question/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Question.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Question.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam/1.0.0": {
+      "type": "project",
+      "path": "../Exam/Exam.csproj",
+      "msbuildProject": "../Exam/Exam.csproj"
+    },
+    "ExamService/1.0.0": {
+      "type": "project",
+      "path": "../ExamService/ExamService.csproj",
+      "msbuildProject": "../ExamService/ExamService.csproj"
+    },
+    "Question/1.0.0": {
+      "type": "project",
+      "path": "../Question/Question.csproj",
+      "msbuildProject": "../Question/Question.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Exam >= 1.0.0",
+      "ExamService >= 1.0.0",
+      "Question >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\CDAC\\DotNet\\ExamPortal\\TestApp\\TestApp.csproj",
+      "projectName": "TestApp",
+      "projectPath": "C:\\CDAC\\DotNet\\ExamPortal\\TestApp\\TestApp.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\CDAC\\DotNet\\ExamPortal\\TestApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\CDAC\\DotNet\\ExamPortal\\ExamService\\ExamService.csproj": {
+              "projectPath": "C:\\CDAC\\DotNet\\ExamPortal\\ExamService\\ExamService.csproj"
+            },
+            "C:\\CDAC\\DotNet\\ExamPortal\\Exam\\Exam.csproj": {
+              "projectPath": "C:\\CDAC\\DotNet\\ExamPortal\\Exam\\Exam.csproj"
+            },
+            "C:\\CDAC\\DotNet\\ExamPortal\\Question\\Question.csproj": {
+              "projectPath": "C:\\CDAC\\DotNet\\ExamPortal\\Question\\Question.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
