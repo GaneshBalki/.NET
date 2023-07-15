@@ -1,0 +1,15 @@
+C:\CDAC\DotNet\Day_5\DemoApp\bin\Debug\net7.0\DemoApp.exe
+C:\CDAC\DotNet\Day_5\DemoApp\bin\Debug\net7.0\DemoApp.deps.json
+C:\CDAC\DotNet\Day_5\DemoApp\bin\Debug\net7.0\DemoApp.runtimeconfig.json
+C:\CDAC\DotNet\Day_5\DemoApp\bin\Debug\net7.0\DemoApp.dll
+C:\CDAC\DotNet\Day_5\DemoApp\bin\Debug\net7.0\DemoApp.pdb
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\DemoApp.csproj.AssemblyReference.cache
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\DemoApp.AssemblyInfoInputs.cache
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\DemoApp.AssemblyInfo.cs
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\DemoApp.dll
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\refint\DemoApp.dll
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\DemoApp.pdb
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\DemoApp.genruntimeconfig.cache
+C:\CDAC\DotNet\Day_5\DemoApp\obj\Debug\net7.0\ref\DemoApp.dll

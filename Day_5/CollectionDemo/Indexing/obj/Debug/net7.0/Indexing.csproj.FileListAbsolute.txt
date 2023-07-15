@@ -1,0 +1,15 @@
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\bin\Debug\net7.0\Indexing.exe
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\bin\Debug\net7.0\Indexing.deps.json
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\bin\Debug\net7.0\Indexing.runtimeconfig.json
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\bin\Debug\net7.0\Indexing.dll
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\bin\Debug\net7.0\Indexing.pdb
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\Indexing.csproj.AssemblyReference.cache
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\Indexing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\Indexing.AssemblyInfoInputs.cache
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\Indexing.AssemblyInfo.cs
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\Indexing.csproj.CoreCompileInputs.cache
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\Indexing.dll
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\refint\Indexing.dll
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\Indexing.pdb
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\Indexing.genruntimeconfig.cache
+C:\CDAC\DotNet\Day_5\CollectionDemo\Indexing\obj\Debug\net7.0\ref\Indexing.dll

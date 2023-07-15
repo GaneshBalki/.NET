@@ -1,0 +1,15 @@
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\bin\Debug\net7.0\List.exe
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\bin\Debug\net7.0\List.deps.json
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\bin\Debug\net7.0\List.runtimeconfig.json
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\bin\Debug\net7.0\List.dll
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\bin\Debug\net7.0\List.pdb
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\List.dll
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\refint\List.dll
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\List.pdb
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\CDAC\DotNet\Day_5\CollectionDemo\list\obj\Debug\net7.0\ref\List.dll
